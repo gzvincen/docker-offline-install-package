@@ -14,7 +14,7 @@ docker container rm -f offline-docker-ubuntu
 docker container rm -f offline-docker-centos
 
 #make offline docker ubuntu pkg
-names="trusty xenial zesty artful"
+names="trusty xenial artful"
 i=1  
 while((1==1))  
 do  
